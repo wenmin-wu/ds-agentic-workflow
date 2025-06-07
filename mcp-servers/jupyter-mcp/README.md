@@ -153,11 +153,9 @@ pip install jupyterlab==4.4.0 notebook msgpack jupyter-session-tracer==0.1.2
 
 3. **Copy the connection info** and provide it to Cursor for seamless integration:
 
-📹 **Demo Video**: Watch the complete workflow in action
+📹 **Demo Video**: [Watch the complete workflow in action](https://github.com/wenmin-wu/ds-agentic-workflow/raw/main/mcp-servers/jupyter-mcp/screenshots/demo.mp4)
 
-<video src="https://github.com/wenmin-wu/ds-agentic-workflow/raw/main/mcp-servers/jupyter-mcp/screenshots/demo.mp4" controls="controls" style="max-width: 730px;">
-Your browser does not support the video tag. <a href="https://github.com/wenmin-wu/ds-agentic-workflow/raw/main/mcp-servers/jupyter-mcp/screenshots/demo.mp4">Download the demo video</a>
-</video>
+> **Note**: Click the link above to download and watch the demo video showing the complete jupyter-mcp workflow.
 
 ## 🔧 Advanced Features
 
