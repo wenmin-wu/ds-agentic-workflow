@@ -1,0 +1,20 @@
+{
+    "mcpServers": {
+        "knowledge-mcp": {
+            "command": "/opt/anaconda3/envs/py310/bin/python3",
+            "args": [
+                "<your-folder-path>/main.py"
+            ],
+            "env": {
+                "DATABASE_URL": "postgresql://user:password@localhost:5433/database_name",
+                "OLLAMA_URL": "http://localhost:11434",
+                "OLLAMA_TOKEN": "",
+                "EMBEDDING_MODEL": "bge-m3:567m",
+                "EMBEDDING_DIMENSIONS": "1024",
+                "SIMILARITY_THRESHOLD": "0.7",
+                "MAX_RESULTS": "10",
+                "LOG_LEVEL": "INFO"
+            }
+        }
+    }
+}

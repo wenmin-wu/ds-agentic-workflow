@@ -1,0 +1,2 @@
+jupyter-kernel-client==0.7.1
+jupyter-nbmodel-client==0.13.0
