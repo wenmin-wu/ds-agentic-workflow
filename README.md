@@ -1,5 +1,8 @@
 # DS Agentic Workflow
 
+![Demo GIF](mcp-servers/jupyter-mcp/screenshots/demo.gif)
+*Demonstrating autonomous exploratory data analysis with real-time execution and intelligent error resolution*
+
 A comprehensive data science agentic workflow system powered by Cursor AI and two specialized Model Context Protocol (MCP) servers. This system transforms traditional data science development by enabling truly autonomous workflows that bridge local development environments and remote compute resources, with intelligent knowledge management and automated notebook execution capabilities.
 
 ## 🚨 The Problem: Data Science Development Friction
